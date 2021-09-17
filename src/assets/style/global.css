@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+html{
+    font-size: calc(100vw * 100 / 1530);
+    overflow-y: scroll;
+}
+.el-message{
+    font-size: 0.16rem;
+}
